@@ -1,2 +1,2 @@
 # Testing
-My first repository. # To improve is to change.
+To improve is to change.
